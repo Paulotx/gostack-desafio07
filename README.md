@@ -7,4 +7,4 @@ Mini Projeto desenvolvido durante curso GoStack da Rocketseat
 
 Foi desenvolvido a aplicação GoMarketplace
 
-![Imagem01](https://i.imgur.com/4olMT5F.png) ![Imagem01](https://i.imgur.com/utkVfgn.png)
+![Imagem01](https://i.imgur.com/4olMT5F.png) ![Imagem02](https://i.imgur.com/utkVfgn.png)
